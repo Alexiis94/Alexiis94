@@ -8,7 +8,7 @@
 ## 🛠️ Tecnologías principales
 - Frontend: Vue 3, React, Tailwind CSS, Vite
 - Backend: Node.js, Express, MongoDB
-- DevOps: Nginx, PM2, AWS S3, VPS
+- DevOps: Nginx, PM2, AWS S3 EC2, VPS, Cloudflare
 - Herramientas: GitHub, GitLab, Postman, Swagger
 
 ## 🌐 Proyectos destacados
